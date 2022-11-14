@@ -35,7 +35,9 @@ ShopItemFunc.defaultProps = {
 	brand: 'Lorem',
 	title: 'New goods',
 	description: 'The product description is being edited',
-	descriptionFull: ''
+	descriptionFull: '',
+	price: 1,
+	currency: ''
 }
 
 export default ShopItemFunc;
